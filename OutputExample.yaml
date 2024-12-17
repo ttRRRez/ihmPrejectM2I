@@ -1,0 +1,12 @@
+ID: 1, Prénom: Mohamed, Nom: El Amrani, Age: 30, Poste: Ingénieur Informatique, Salaire: 70000.0
+ID: 1, Nom: Technologie, Manager: Mohamed El Amrani, Salaire Total (TL): 70000.0
+
+Tous les Employés:
+ID: 1, Prénom: Mohamed, Nom: El Amrani, Age: 30, Poste: Ingénieur Informatique, Salaire: 70000.0
+ID: 2, Prénom: Yassir, Nom: Benkirane, Age: 28, Poste: Développeur Web, Salaire: 50000.0
+ID: 3, Prénom: Fatima Zahra, Nom: Oufkir, Age: 34, Poste: Responsable RH, Salaire: 80000.0
+ID: 4, Prénom: Imane, Nom: Berrada, Age: 27, Poste: Chargée de recrutement, Salaire: 45000.0
+
+Tous les Départements:
+ID: 1, Nom: Technologie, Manager: Mohamed El Amrani, Salaire Total (TL): 70000.0
+ID: 2, Nom: Ressources Humaines, Manager: Fatima Zahra Oufkir, Salaire Total (TL): 80000.0
